@@ -1,0 +1,24 @@
+
+The course content 
+
+1.  Basic python
+2.  django APIs
+     1. django moduling 
+     2. django admin
+     3. rest_framwork
+     4. setting 
+     5. back up
+     6. django shell
+3.  Linux command line
+     1. basic linux command line 
+     2. Remote access
+     3. upload and download file
+     4. database backup
+  
+4.  git configuration
+
+
+5.  Ebs Services
+6.  Morsal core goal 
+7.  morsal  APIs
+8.  Deployment
