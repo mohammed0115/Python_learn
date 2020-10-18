@@ -64,3 +64,63 @@ git pull origin main
 to create new branch 
 git checkout -b yourbranchname
 """
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+recovery committed 
+Git - Can we recover deleted commits
+
+git reflog   #Reference logs, or "reflogs", record when the tips of branches and other references were updated in the local repository.
+
+
+git reset --hard ID
+git push -f origin master
+
+
+
+
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+there has the way to update feature branch based on the latest master branch. You just need to execute the command on feature branch:
+
+# On feature branch
+git pull origin master --rebase
+
+
+
+
+"""
